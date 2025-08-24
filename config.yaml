@@ -1,0 +1,33 @@
+
+roles:
+  - "java full stack"
+  - "java developer"
+  - "frontend developer"
+  - "backend developer"
+  - "software engineer"
+  - "software developer"
+
+locations:
+  - "Hyderabad, Telangana, India"
+  - "Bengaluru, Karnataka, India"
+  - "Pune, Maharashtra, India"
+  - "Gurugram, Haryana, India"
+  - "New Delhi, Delhi, India"
+  - "Mumbai, Maharashtra, India"
+  - "Chennai, Tamil Nadu, India"
+  - "Remote, India"
+
+max_per_role: 8
+
+entry_level_filters:
+  - "entry level"
+  - "fresher"
+  - "0-1 years"
+  - "0 to 1 years"
+  - "junior"
+  - "new grad"
+  - "graduate"
+  - "trainee"
+  - "intern"   # included for awareness; you can disable if you don't want internships
+
+company_preference: []
